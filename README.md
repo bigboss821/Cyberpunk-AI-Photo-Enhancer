@@ -97,3 +97,7 @@ npm start
 
 **Premium License** — All rights reserved. Contact [cyberdefendx.org](https://cyberdefendx.org) for commercial use.
 
+## 📄 License
+
+**Premium License** — All rights reserved. Contact [cyberdefendx.org](https://cyberdefendx.org) for commercial use.
+
