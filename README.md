@@ -1,6 +1,3 @@
-# Cyberpunk-AI-Photo-Enhancer
-Cyberpunk AI Photo Enhancer free
-
 # 🚀 CYBERPUNK AI PHOTO ENHANCER
 
 ![Cyberpunk Banner](https://via.placeholder.com/900x180/0a0a1a/00f3ff?text=Cyberpunk+AI+Photo+Enhancer)
@@ -96,8 +93,3 @@ npm start
 ## 📄 License
 
 **Premium License** — All rights reserved. Contact [cyberdefendx.org](https://cyberdefendx.org) for commercial use.
-
-## 📄 License
-
-**Premium License** — All rights reserved. Contact [cyberdefendx.org](https://cyberdefendx.org) for commercial use.
-
