@@ -27,7 +27,7 @@
 
 ## 🖼️ Screenshot
 
-![App Screenshot](https://via.placeholder.com/900x500/181a2b/00f3ff?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/bigboss821/Cyberpunk-AI-Photo-Enhancer/refs/heads/main/Cyberpunk_AI_Photo_Enhancer_paRkFYAJHu.png)
 
 ---
 
