@@ -34,7 +34,7 @@
 ## 🚀 Installation & Usage
 
 ### For Users (Portable EXE)
-1. Download the latest `Cyberpunk AI Photo Enhancer.exe` from [Releases](https://github.com/your-repo/releases)
+1. Download the latest `Cyberpunk AI Photo Enhancer.exe 64 bit` from [Releases](https://drive.google.com/file/d/1k9NaK3F0-g96G2eMkO6w-ZingXn2XPQk/view?usp=sharing)
 2. Double-click to run — **no install needed!**
 
 ### For Developers
